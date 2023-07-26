@@ -1,0 +1,2 @@
+Hello, I'm practicing how to write in a file
+Here's new line
